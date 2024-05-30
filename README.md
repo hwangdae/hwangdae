@@ -29,13 +29,6 @@
 
 <br>
 
-<h3 align="center">공부중</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-</div>
-
-<br>
-
 <h3 align="center">협업 툴</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -47,8 +40,22 @@
 
 <br>
 
+<h3 align="center">공부중</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </div>
 
+<br>
+
+</div>
+<div align="center" display="flex">
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hwangdae&show_icons=true&hide_border=true&hide_rank=true&title_color=76ABAE&text_color=FFFFFF&icon_color=76ABAE&bg_color=31363F" />
+</a>
+<a display="block" height="500px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangdae&layout=compact&hide_border=true&title_color=76ABAE&text_color=FFFFFF&icon_color=76ABAE&bg_color=31363F" />
+</a>
+</div>
 <!--
 **hwangdae/hwangdae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
